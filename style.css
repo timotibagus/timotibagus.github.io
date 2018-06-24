@@ -4,7 +4,7 @@ body,html{
 body{
 	height: 100%;
 	background-image: url(latar.jpg);
-	background-attachment: fixed;
+/*	background-attachment: fixed;*/
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
