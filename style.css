@@ -1,5 +1,8 @@
-
+body,html{
+	height: auto;
+}
 body{
+	height: 100%;
 	background-image: url(latar.jpg);
 	background-attachment: fixed;
 	background-size: cover;
